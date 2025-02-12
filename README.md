@@ -1,4 +1,4 @@
-# For in e For of
+# Fior in e For of
 
 ## For in
 - itera os indices de um array
